@@ -6,3 +6,4 @@
 ![Mobile design](/design/mobile-design.jpg) 
 
 ## Live preview
+https://naiiiden.github.io/profile-card-component/
