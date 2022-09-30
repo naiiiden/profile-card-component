@@ -10,6 +10,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    line-height: 1.5;
 }
 
 body{
@@ -83,7 +84,7 @@ strong{
     color: hsl(229, 23%, 23%);
 }
 
-p{
+p {
     color:hsl(227, 10%, 46%);
 }
 
