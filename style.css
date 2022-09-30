@@ -84,8 +84,9 @@ strong{
     color: hsl(229, 23%, 23%);
 }
 
-p {
+h1 {
     color:hsl(227, 10%, 46%);
+    font-size: 18px;
 }
 
 hr{
